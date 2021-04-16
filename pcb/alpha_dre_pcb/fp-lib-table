@@ -4,6 +4,6 @@
   (lib (name ProMicroKiCad)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad)(options "")(descr ""))
   (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
-  (lib (name isio42_pcb)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/isio42/pcb/isio42_pcb)(options "")(descr ""))
-  (lib (name fancy-kicad-stuff)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/isio42/pcb/isio42_pcb/fancy-kicad-stuff/cc.pretty)(options "")(descr ""))
+  (lib (name isio42_pcb)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/alpha_dre/pcb/alpha_dre_pcb)(options "")(descr ""))
+  (lib (name fancy-kicad-stuff)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/alpha_dre/pcb/alpha_dre_pcb/fancy-kicad-stuff/cc.pretty)(options "")(descr ""))
 )

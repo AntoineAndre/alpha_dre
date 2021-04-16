@@ -51,3 +51,8 @@ The 3D view of the PCB looks like this:
 ![pcb_front](docs/alpha_dre_pcb_top.png)
 
 ![pcb_back](docs/alpha_dre_pcb_bottom.png)
+
+## Aknowledgment
+
+- [Masterzen "Designing a keyboard from scratch" guide](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
+- French mechanical keyboard community (without their feedback and help non of this would be possible)
