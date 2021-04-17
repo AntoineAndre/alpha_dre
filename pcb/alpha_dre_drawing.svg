@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 50.0 50.0"
-   height="50.0mm"
-   width="50.0mm"
+   sodipodi:docname="alpha_dre_drawing.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="alpha_dre_drawing.svg">
+   width="50.0mm"
+   height="50.0mm"
+   viewBox="0 0 50.0 50.0"
+   version="1.1"
+   id="svg8">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="445"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="g894"
-     inkscape:document-units="mm"
-     inkscape:cy="80.3716"
-     inkscape:cx="-63.007745"
-     inkscape:zoom="1.3063646"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6949571"
+     inkscape:cx="105.4186"
+     inkscape:cy="97.213955"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g894"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="445"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -48,41 +48,42 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Calque 1" />
+     style="display:none" />
   <g
-     inkscape:label="[fixed] BG"
-     inkscape:groupmode="layer"
+     id="g859"
      sodipodi:insensitive="true"
-     id="g859">
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG">
     <rect
-       x="0"
-       y="0"
-       width="50.0"
-       height="50.0"
+       id="rect857"
        style="fill:#FFFFFF;fill-opacity:1;stroke:none"
-       id="rect857" />
+       height="50.0"
+       width="50.0"
+       y="0"
+       x="0" />
   </g>
   <g
-     inkscape:label="B.SilkS"
+     id="g861"
      inkscape:groupmode="layer"
-     id="g861" />
+     inkscape:label="B.SilkS" />
   <g
-     inkscape:label="F.SilkS"
+     id="g894"
      inkscape:groupmode="layer"
-     id="g894">
+     inkscape:label="F.SilkS">
     <text
-       id="text835"
-       y="32.078499"
-       x="26.498228"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         y="32.078499"
-         x="26.498228"
-         id="tspan839"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.419144"
+       y="19.833769"
+       id="text835"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.1667px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">αDré</tspan></text>
+         id="tspan839"
+         x="23.419144"
+         y="19.833769">α. Dré</tspan></text>
   </g>
 </svg>

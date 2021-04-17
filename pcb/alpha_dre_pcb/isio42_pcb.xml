@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>G:\Utilisateurs\antoine.andre\Documents\webDev\isio42\pcb\isio42_pcb\isio42_pcb.sch</source>
-    <date>15/04/2021 22:40:26</date>
+    <source>G:\Utilisateurs\antoine.andre\Documents\webDev\alpha_dre\pcb\alpha_dre_pcb\isio42_pcb.sch</source>
+    <date>17/04/2021 19:46:56</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -69,7 +69,7 @@
     </comp>
     <comp ref="MX12">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60771A3E</tstamp>
@@ -108,7 +108,7 @@
     </comp>
     <comp ref="MX22">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_6.25u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D887</tstamp>
@@ -219,7 +219,7 @@
     </comp>
     <comp ref="MX8">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60785059</tstamp>
@@ -258,7 +258,7 @@
     </comp>
     <comp ref="MX4">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.25u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078508D</tstamp>
@@ -289,7 +289,7 @@
     </comp>
     <comp ref="MX34">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B84D</tstamp>
@@ -304,7 +304,7 @@
     </comp>
     <comp ref="MX35">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B85A</tstamp>
@@ -335,7 +335,7 @@
     </comp>
     <comp ref="MX31">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B881</tstamp>
@@ -358,7 +358,7 @@
     </comp>
     <comp ref="MX41">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.75u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60791378</tstamp>
@@ -373,7 +373,7 @@
     </comp>
     <comp ref="MX42">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.25u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60791385</tstamp>
@@ -404,7 +404,7 @@
     </comp>
     <comp ref="MX38">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607913AC</tstamp>
@@ -419,7 +419,7 @@
     </comp>
     <comp ref="MX39">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607913B9</tstamp>
@@ -434,217 +434,217 @@
     </comp>
     <comp ref="MX28">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607808FD</tstamp>
     </comp>
     <comp ref="MX25">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60780931</tstamp>
     </comp>
     <comp ref="MX21">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D87A</tstamp>
     </comp>
     <comp ref="MX18">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D8AE</tstamp>
     </comp>
     <comp ref="MX15">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6076B937</tstamp>
     </comp>
     <comp ref="MX11">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60771A31</tstamp>
     </comp>
     <comp ref="MX7">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078504C</tstamp>
     </comp>
     <comp ref="MX3">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60785080</tstamp>
     </comp>
     <comp ref="MX37">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6079139F</tstamp>
     </comp>
     <comp ref="MX33">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B840</tstamp>
     </comp>
     <comp ref="MX30">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B874</tstamp>
     </comp>
     <comp ref="MX27">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607808F0</tstamp>
     </comp>
     <comp ref="MX24">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60780924</tstamp>
     </comp>
     <comp ref="MX20">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D86D</tstamp>
     </comp>
     <comp ref="MX17">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D8A1</tstamp>
     </comp>
     <comp ref="MX14">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6076A9F0</tstamp>
     </comp>
     <comp ref="MX10">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60771A24</tstamp>
     </comp>
     <comp ref="MX6">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078503F</tstamp>
     </comp>
     <comp ref="MX2">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.50u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60785073</tstamp>
     </comp>
     <comp ref="MX40">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_ISOEnter_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_ISOEnter_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6079135E</tstamp>
     </comp>
     <comp ref="MX36">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60791392</tstamp>
     </comp>
     <comp ref="MX32">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B833</tstamp>
     </comp>
     <comp ref="MX29">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6078B867</tstamp>
     </comp>
     <comp ref="MX26">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607808E3</tstamp>
     </comp>
     <comp ref="MX23">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60780917</tstamp>
     </comp>
     <comp ref="MX19">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D860</tstamp>
     </comp>
     <comp ref="MX16">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6077D894</tstamp>
     </comp>
     <comp ref="MX13">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607669DC</tstamp>
     </comp>
     <comp ref="MX9">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60771A17</tstamp>
     </comp>
     <comp ref="MX5">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60785032</tstamp>
     </comp>
     <comp ref="MX1">
       <value>MX-NoLED</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB</footprint>
+      <footprint>isio42_pcb:SW_Cherry_MX_1.00u_PCB_perso</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60785066</tstamp>
@@ -1073,16 +1073,16 @@
       <uri>C:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATmega.lib</uri>
     </library>
     <library logical="MX_Alps_Hybrid">
-      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\isio42\pcb\isio42_pcb/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib</uri>
+      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\alpha_dre\pcb\alpha_dre_pcb/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib</uri>
     </library>
     <library logical="Switch">
       <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
     <library logical="Type-C">
-      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\isio42\pcb\isio42_pcb/Type-C.pretty/Type-C.lib</uri>
+      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\alpha_dre\pcb\alpha_dre_pcb/Type-C.pretty/Type-C.lib</uri>
     </library>
     <library logical="random-keyboard-parts">
-      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\isio42\pcb\isio42_pcb/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
+      <uri>G:\Utilisateurs\antoine.andre\Documents\webDev\alpha_dre\pcb\alpha_dre_pcb/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
     </library>
   </libraries>
   <nets>
