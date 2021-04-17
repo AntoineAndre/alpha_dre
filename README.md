@@ -32,7 +32,17 @@ The 3D view of the PCB looks like this:
 
 ## BUILD
 
-List of all the needed parts:
+Rought list of all the needed parts:
+
+| Category | Designation | Number | Status |
+|----------|-------------|--------|--------|
+| Case     | Acrylic plates (3mm and 8 mm) | 4 | :x:
+|          | M2 screws   | 10 | :heavy_check_mark: |
+| PCB      | SMD components | too much | :heavy_check_mark: |
+|          | PCB plate   | 5 | :x: |
+| Other    | Switches    | 42 | :x: |
+|          | Keycaps set (ISO) | 1 | :x: |
+
 
 ### PCB
 
