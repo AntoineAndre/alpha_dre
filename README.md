@@ -2,75 +2,51 @@
 
 __Or "How to fit a french ISO layout in a 40% keyboard ?__
 
-This project aims to create a minimalist mechanical keyboard from scratch. It will therefore include all the 3D files and various pcb related files to conduct the project.
 
-## Renders
+## Presentation
 
-To get a better glimpse of the project, some renders have been done. They can give a good approximation of the end result product and are therefore a precious help for tweaking parameters.
+This project aims to create a minimalist mechanical keyboard from scratch. It will therefore include all the 3D files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
-![alpha_dre_render1](renders/acrylic_case_top.png)
+![alpha_dre_render1](renders/alpha_dre_top_view.png)
 
-![alpha_dre_render2](renders/acrylic_case_front.png)
-
-![alpha_dre_render3](renders/acrylic_case_back.png)
-
-## Layout
-
-The physical layout of the keyboard presents 42 keys that are compatible with most of keycaps sets.
+The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. On the software side, the different layers of the keyboard remain to be done.
 
 ![alpha_dre_layout](docs/alpha_dre_layout.png)
 
-The different layers of the keyboard still remain unknown at the moment...
+The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
 
-## PCB
+![pcb_front](docs/alpha_dre_pcb_front.png)
 
-The 3D view of the PCB looks like this:
+![pcb_back](docs/alpha_dre_pcb_back.png)
 
-![pcb_front](docs/alpha_dre_pcb_top.png)
+The case is an *high profile* one (meaning the eletronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
 
-![pcb_back](docs/alpha_dre_pcb_bottom.png)
+In order to give the keyboard a little angle for typing, two different feet have been design to be screwed at the back of the case.
 
-## BUILD
+A last option of low profile (barely no case) is available and needs practicaly no manufacturing. This option leads to a *tray mount* keyboard with no plate... 
 
-Rought list of all the needed parts:
+![case_top_view](case/exploded_view_case.png)
 
-| Category | Designation | Number | Status |
-|----------|-------------|--------|--------|
-| Case     | Acrylic plates (3mm and 8 mm) | 4 | :heavy_check_mark:
-|          | M2 screws   | 10 | :heavy_check_mark: |
-| PCB      | SMD components | too much | :heavy_check_mark: |
-|          | PCB plate   | 5 | :heavy_check_mark: |
-| Other    | Switches    | 42 | :heavy_check_mark: |
-|          | Stabilisators | 2 (6.25u & 2u) | :heavy_check_mark: |
-|          | Keycaps set (ISO) | 1 | :heavy_check_mark: |
+Here is a global list of all parts needed to perform this keyboard build:
 
-
-### PCB
-
-|Designation|Type             |Footprint         |Quantity|
-|-----------|-----------------|------------------|--------|
-|FB1        |Ferrite bead     |805               |1       |
-|USB1       |USB connector    |HRO-TYPE-C-31-M-12|1       |
-|U2         |PRTR5V0U2X       |SOT143B           |1       |
-|SW1        |Reset switch     |SKQG              |1       |
-|R6,R5      |5.1 kOhm resistor|805               |2       |
-|R4,R3      |10 kOhm resistor |805               |2       |
-|R2,R1      |22 Ohm resistor  |805               |2       |
-|C8,C3,C2,C1|100 nF capacitor |805               |4       |
-|Y1         |16 MHz crystal   |3225              |1       |
-|U1         |Atmega 32U4-AU   |TQFP-44           |1       |
-|F1         |PTC Fuse         |1206              |1       |
-|C7         |1 uF capacitor   |805               |1       |
-|C6         |10 uF capacitor  |805               |1       |
-|C5,C4      |22 pF capacitor  |805               |2       |
-|D1-42      |Diode            |SOD-123           |42      |
+- [ ] Laser cut acrylic plates
+- [ ] Screws
+- [ ] SMD components fot the pcb
+- [ ] pcb plate
+- [ ] 42 switches
+- [ ] 6.25u and 2u stabilizers
+- [ ] ISO keycap set
+- [ ] Soldering tools
+- [ ] Drill and threading tools
 
 
-### Case
+## Documents
 
+- [case documentation](case/case_doc.md)
+- [pcb documentation](pcb/pcb_doc.md)
 
 
 ## Aknowledgment
 
 - [Masterzen "Designing a keyboard from scratch" guide](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
-- French mechanical keyboard community (without their feedback and help non of this would be possible)
+- [French mechanical keyboard community](https://github.com/mkbdfr) (without their feedback and help none of this would have been possible)
