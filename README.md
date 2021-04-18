@@ -1,13 +1,15 @@
-# Alpha Dré
+# &#945;. Dré
 
 __Or "How to fit a french ISO layout in a 40% keyboard ?__
 
 
 ## Presentation
 
-This project aims to create a minimalist mechanical keyboard from scratch. It will therefore include all the 3D files and various pcb related files to conduct the project along with a documentation to build the keyboard.
+This project aims to create a minimalist mechanical keyboard from scratch. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
 ![alpha_dre_render1](renders/alpha_dre_top_view.png)
+
+![alpha_dre_render2](renders/alpha_dre_side_view.png)
 
 The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. On the software side, the different layers of the keyboard remain to be done.
 
@@ -19,7 +21,7 @@ The pcb has been designed with Kicad software and gerbers files are available in
 
 ![pcb_back](docs/alpha_dre_pcb_back.png)
 
-The case is an *high profile* one (meaning the eletronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
+The case is a *high profile* one (meaning the eletronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
 
 In order to give the keyboard a little angle for typing, two different feet have been design to be screwed at the back of the case.
 

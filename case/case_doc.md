@@ -1,11 +1,5 @@
 # Case conception and build
 
-## Renders
-
-![render_case](../renders/acrylic_case_front.png)
-
-![render_case](../renders/acrylic_case_back_2.png)
-
 ## CAD
 
 ![CAD_view](CAD_case_view.png)

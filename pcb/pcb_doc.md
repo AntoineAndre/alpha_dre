@@ -2,15 +2,15 @@
 
 ## Main design
 
-![top view](../docs/alpha_dre_pcb_top.png)
+![front view](../docs/alpha_dre_pcb_front.png)
 
-![bottom view](../docs/alpha_dre_pcb_bottom.png)
+![back view](../docs/alpha_dre_pcb_back.png)
 
-Even if the design is planed to be sandwich mounted with a stack of acrylic plate, the PCB design offers the possibily to go for a trail mount. 
+Even if the design is planed to be sandwich mounted with a stack of acrylic plate, the PCB design offers the possibily to go for a trail mount with dedicated holes (5 evenly spaced on the PCB).
 
 ## Part list
 
-The PCB has been designed to be soldered with SMD components and therefore needs a lot of different electronic parts. The list is presented below with the links to the [LCSC](https://lcsc.com/) components:
+The PCB has been designed to be soldered with SMD components and therefore needs a lot of different electronic parts that are listed below:
 
 |Designation|Type             |Footprint         |Quantity|
 |-----------|-----------------|------------------|--------|
