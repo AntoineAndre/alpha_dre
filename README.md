@@ -36,11 +36,12 @@ Rought list of all the needed parts:
 
 | Category | Designation | Number | Status |
 |----------|-------------|--------|--------|
-| Case     | Acrylic plates (3mm and 8 mm) | 4 | :x:
+| Case     | Acrylic plates (3mm and 8 mm) | 4 | :heavy_check_mark:
 |          | M2 screws   | 10 | :heavy_check_mark: |
 | PCB      | SMD components | too much | :heavy_check_mark: |
-|          | PCB plate   | 5 | :x: |
+|          | PCB plate   | 5 | :heavy_check_mark: |
 | Other    | Switches    | 42 | :heavy_check_mark: |
+|          | Stabilisators | 2 (6.25u & 2u) | :heavy_check_mark: |
 |          | Keycaps set (ISO) | 1 | :heavy_check_mark: |
 
 
