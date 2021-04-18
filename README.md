@@ -1,6 +1,6 @@
 # &#945;. Dré
 
-__Or "How to fit a french ISO layout in a 40% keyboard ?__
+__Or "How to fit a french ISO layout in a 40% keyboard ?"__
 
 
 ## Presentation
@@ -11,15 +11,23 @@ This project aims to create a minimalist mechanical keyboard from scratch. It wi
 
 ![alpha_dre_render2](renders/alpha_dre_side_view.png)
 
+Complete set of renders can be found [here](renders/renders_doc.md)
+
+### Layout
+
 The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. On the software side, the different layers of the keyboard remain to be done.
 
 ![alpha_dre_layout](docs/alpha_dre_layout.png)
+
+### PCB
 
 The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
 
 ![pcb_front](docs/alpha_dre_pcb_front.png)
 
 ![pcb_back](docs/alpha_dre_pcb_back.png)
+
+### Case
 
 The case is a *high profile* one (meaning the eletronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
 
@@ -28,6 +36,8 @@ In order to give the keyboard a little angle for typing, two different feet have
 A last option of low profile (barely no case) is available and needs practicaly no manufacturing. This option leads to a *tray mount* keyboard with no plate... 
 
 ![case_top_view](case/exploded_view_case.png)
+
+### Parts
 
 Here is a global list of all parts needed to perform this keyboard build:
 
@@ -51,4 +61,4 @@ Here is a global list of all parts needed to perform this keyboard build:
 ## Aknowledgment
 
 - [Masterzen "Designing a keyboard from scratch" guide](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/)
-- [French mechanical keyboard community](https://github.com/mkbdfr) (without their feedback and help none of this would have been possible)
+- [French mechanical keyboard community](https://github.com/mkbdfr) for their help and feedback
