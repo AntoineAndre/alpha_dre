@@ -1,4 +1,4 @@
-19153755508148274
+19161849230595537
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83153,6 +83153,13 @@ Cherry MX keyswitch ISO enter PCB
 2
 2
 isio42_pcb
+alpha_dre_design
+
+
+0
+0
+0
+isio42_pcb
 alpha_dre_drawing
 
 
@@ -83160,7 +83167,35 @@ alpha_dre_drawing
 0
 0
 isio42_pcb
+drawing
+
+
+0
+0
+0
+isio42_pcb
 drawing_plate
+
+
+0
+0
+0
+isio42_pcb
+escargot_design
+
+
+0
+0
+0
+isio42_pcb
+info_design
+
+
+0
+0
+0
+isio42_pcb
+info_drawing
 
 
 0

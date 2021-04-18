@@ -70,24 +70,24 @@
      id="g1456">
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="0.77779186"
-       y="3.4477351"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.9111166"
+       y="5.9790955"
        id="text1422"><tspan
-         style="stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.41111px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          sodipodi:role="line"
          id="tspan1426"
-         x="0.77779186"
-         y="3.4477351">Un clavier Béret</tspan><tspan
-         style="stroke-width:0.264583"
+         x="4.9111166"
+         y="5.9790955">Un clavier Béret</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.41111px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          sodipodi:role="line"
-         x="0.77779186"
-         y="7.8574471"
+         x="4.9111166"
+         y="7.7429829"
          id="tspan1430">Disposition ISO 42 touches</tspan><tspan
-         style="stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.41111px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          sodipodi:role="line"
          id="tspan1428"
-         x="0.77779186"
-         y="12.26716">Rev 1.0</tspan></text>
+         x="4.9111166"
+         y="9.5068703">Rev 1.0</tspan></text>
   </g>
 </svg>
