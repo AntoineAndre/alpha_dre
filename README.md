@@ -40,8 +40,8 @@ Rought list of all the needed parts:
 |          | M2 screws   | 10 | :heavy_check_mark: |
 | PCB      | SMD components | too much | :heavy_check_mark: |
 |          | PCB plate   | 5 | :x: |
-| Other    | Switches    | 42 | :x: |
-|          | Keycaps set (ISO) | 1 | :x: |
+| Other    | Switches    | 42 | :heavy_check_mark: |
+|          | Keycaps set (ISO) | 1 | :heavy_check_mark: |
 
 
 ### PCB
