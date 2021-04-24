@@ -5,9 +5,7 @@ __Or "How to fit a french ISO layout in a 40% keyboard ?"__
 
 ## Presentation
 
-Inspired by some of the best 40% keyboads (Golmon, Equinox etc.) and by the need to make an ISO compatible clean layout while keeping the cost as low as possible, this project came alive.
-
-It also aims to create a minimalist mechanical keyboard from scratch. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
+This project started as a need to find a new mechanical keyboard with a french ISO layout support. It also aims to keep a minimalistic design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
 ![alpha_dre_render1](renders/alpha_dre_top_view4.png)
 
