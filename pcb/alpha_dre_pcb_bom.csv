@@ -1,0 +1,17 @@
+Id;Designator;Package;Quantity;Designation;Soldered ?
+11;FB1;L_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;Ferrite_Bead_Small;
+12;USB1;HRO-TYPE-C-31-M-12-HandSoldering;1;HRO-TYPE-C-31-M-12;
+13;U2;SOT143B;1;PRTR5V0U2X;
+14;SW1;SW_SPST_SKQG_WithStem;1;SW_Push;
+15;R6,R5;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;2;5.1k;
+16;R4,R3;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;2;10k;
+17;R2,R1;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;2;22;
+18;J1;Reset_Pretty-Mask;1;AVR-ISP-6;
+19;C8,C3,C2,C1;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;4;0.1uF;
+20;Y1;Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering;1;16MHz;
+21;U1;TQFP-44_10x10mm_P0.8mm;1;ATmega32U4-AU;
+22;F1;Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;1;500mA;
+23;C7;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;1;1uF;
+24;C6;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;1;10uF;
+25;C5,C4;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;2;22pF;
+26;D42,D41,D40,D39,D38,D37,D36,D35,D34,D33,D32,D31,D30,D29,D28,D27,D26,D25,D24,D23,D22,D21,D20,D19,D18,D17,D16,D15,D14,D13,D12,D11,D10,D9,D8,D7,D6,D5,D4,D3,D2,D1;D_SOD-123-Pretty;42;D_Small;
