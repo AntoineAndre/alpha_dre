@@ -7,11 +7,23 @@ __Or "How to fit a french ISO layout in a 40% keyboard ?"__
 
 This project started as a need to find a new mechanical keyboard with a french ISO layout support. It also aims to keep a minimalistic design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
-![alpha_dre_render1](renders/alpha_dre_top_view4.png)
+### Renders
 
-![alpha_dre_render2](renders/alpha_dre_side_view4.png)
+A bunch of renders have been made to validate the overall looking of the keyboard.
 
-Complete set of renders can be found [here](renders/renders_doc.md)
+![alpha_dre_render1](dos/renders/alpha_dre_top_view4.png)
+
+![alpha_dre_render2](doc/renders/alpha_dre_side_view4.png)
+
+Complete set of renders can be found [here](dos/renders/renders_doc.md)
+
+### Results
+
+A first prototype with a simple skeleton case made out of plexiglass have been made to validate that the keyboard was responding correctly to the firmware and was usable. More on the cases will be done in the future (notably with the cut acrylic plates fot the sandwich mount).
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51174000281/in/album-72157719168472937/" title="IMG_7544"><img src="https://live.staticflickr.com/65535/51174000281_8f5fd61257_c.jpg" width="800" height="450" alt="IMG_7544"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51175096930/in/album-72157719168472937/" title="IMG_7542"><img src="https://live.staticflickr.com/65535/51175096930_36d921167d_c.jpg" width="800" height="450" alt="IMG_7542"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Layout
 
@@ -23,9 +35,9 @@ The keyboard presents 42 keys that are placed in an ISO layout, and even if the 
 
 The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
 
-![pcb_front](docs/alpha_dre_pcb_front.png)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328487/in/album-72157719168472937/" title="IMG_7497"><img src="https://live.staticflickr.com/65535/51173328487_4f60afffa1_c.jpg" width="800" height="450" alt="IMG_7497"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-![pcb_back](docs/alpha_dre_pcb_back.png)
+More on the pcb design available in the documentation file.
 
 ### Case
 
@@ -56,6 +68,7 @@ Here is a global list of all parts needed to perform this keyboard build:
 
 - [case documentation](case/case_doc.md)
 - [pcb documentation](pcb/pcb_doc.md)
+- [firmware](firmware/alpha_dre/readme.md)
 
 
 ## Aknowledgment

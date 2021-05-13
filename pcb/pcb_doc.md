@@ -6,7 +6,7 @@
 
 ![back view](../docs/alpha_dre_pcb_back.png)
 
-Even if the design is planed to be sandwich mounted with a stack of acrylic plate, the PCB design offers the possibily to go for a trail mount with dedicated holes (5 evenly spaced on the PCB).
+Even if the design is planed to be sandwich mounted with a stack of acrylic plate, the PCB design offers the possibily to go for a trail mount with dedicated M3 holes (5 evenly spaced on the PCB).
 
 ## Part list
 
@@ -29,3 +29,11 @@ The PCB has been designed to be soldered with SMD components and therefore needs
 |C6         |10 uF capacitor  |805               |1       |
 |C5,C4      |22 pF capacitor  |805               |2       |
 |D1-42      |Diode            |SOD-123           |42      |
+
+## Results
+
+After soldering the PCB with all above listed parts the results shooted with a macro lense looks as follow :
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328487/in/album-72157719168472937/" title="IMG_7497"><img src="https://live.staticflickr.com/65535/51173328487_4f60afffa1_c.jpg" width="800" height="450" alt="IMG_7497"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328407/" title="IMG_7508"><img src="https://live.staticflickr.com/65535/51173328407_bb93115c18_c.jpg" width="800" height="450" alt="IMG_7508"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
