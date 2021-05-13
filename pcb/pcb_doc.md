@@ -34,6 +34,6 @@ The PCB has been designed to be soldered with SMD components and therefore needs
 
 After soldering the PCB with all above listed parts the results shooted with a macro lense looks as follow :
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328487/in/album-72157719168472937/" title="IMG_7497"><img src="https://live.staticflickr.com/65535/51173328487_4f60afffa1_c.jpg" width="800" height="450" alt="IMG_7497"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328487/in/album-72157719168472937/" title="IMG_7497"><img src="https://live.staticflickr.com/65535/51173328487_4f60afffa1_c.jpg" width="800" height="450" alt="IMG_7497"></a>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328407/" title="IMG_7508"><img src="https://live.staticflickr.com/65535/51173328407_bb93115c18_c.jpg" width="800" height="450" alt="IMG_7508"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328407/" title="IMG_7508"><img src="https://live.staticflickr.com/65535/51173328407_bb93115c18_c.jpg" width="800" height="450" alt="IMG_7508"></a>
