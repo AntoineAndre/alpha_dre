@@ -11,9 +11,9 @@ This project started as a need to find a new mechanical keyboard with a french I
 
 A bunch of renders have been made to validate the overall looking of the keyboard.
 
-![alpha_dre_render1](dos/renders/alpha_dre_top_view4.png)
+![alpha_dre_render1](docs/renders/alpha_dre_top_view4.png)
 
-![alpha_dre_render2](doc/renders/alpha_dre_side_view4.png)
+![alpha_dre_render2](docs/renders/alpha_dre_side_view4.png)
 
 Complete set of renders can be found [here](dos/renders/renders_doc.md)
 
