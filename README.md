@@ -5,7 +5,7 @@ __Or "How to fit a french ISO layout in a 40% keyboard ?"__
 
 ## Presentation
 
-This project started as a need to find a new mechanical keyboard with a french ISO layout support. It also aims to keep a minimalistic design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
+This project started as a need to find a **new mechanical keyboard with a french ISO layout support**. It also aims to keep a minimalistic design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
 ### Renders
 
@@ -15,21 +15,21 @@ A bunch of renders have been made to validate the overall looking of the keyboar
 
 ![alpha_dre_render2](docs/renders/alpha_dre_side_view4.png)
 
-Complete set of renders can be found [here](dos/renders/renders_doc.md)
+__Complete set of renders__ can be found __[here](dos/renders/renders_doc.md)__
 
 ### Results
 
-A first prototype with a simple skeleton case made out of plexiglass have been made to validate that the keyboard was responding correctly to the firmware and was usable. More on the cases will be done in the future (notably with the cut acrylic plates fot the sandwich mount).
+A first prototype with a simple skeleton case made out of plexiglass have been made to validate that the keyboard was responding correctly to the firmware and was usable. More on the cases will be done in the future (notably with the cut acrylic plates for the sandwich mount and with a 3d printed case).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51174000281/in/album-72157719168472937/" title="IMG_7544"><img src="https://live.staticflickr.com/65535/51174000281_8f5fd61257_c.jpg" width="800" height="450" alt="IMG_7544"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51175096930/in/album-72157719168472937/" title="IMG_7542"><img src="https://live.staticflickr.com/65535/51175096930_36d921167d_c.jpg" width="800" height="450" alt="IMG_7542"></a>
 
-The complete album containing all the pictures made on the prototype is available [here](https://flic.kr/s/aHsmVCqc8F)
+**The complete album containing all the pictures** made on the prototype is available **[here](https://flic.kr/s/aHsmVCqc8F)**
 
 ### Layout
 
-The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. On the software side, the different layers of the keyboard remain to be done.
+The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. With juste 3 layers the keyboard becomes fully usable as shown in the firmware part.
 
 ![alpha_dre_layout](docs/alpha_dre_layout.png)
 
@@ -47,7 +47,7 @@ The case is a *high profile* one (meaning the eletronic parts and switches are h
 
 In order to give the keyboard a little angle for typing, two different feet have been design to be screwed at the back of the case.
 
-A last option of low profile (barely no case) is available and needs practicaly no manufacturing. This option leads to a *tray mount* keyboard with no plate... 
+A last option of low profile (barely no case) is available and needs practicaly no manufacturing. This option leads to a *tray mount* keyboard with no plate (this is the chosen option shown in the begining of this presentation).
 
 ![case_top_view](case/exploded_view_case.png)
 
@@ -56,8 +56,8 @@ A last option of low profile (barely no case) is available and needs practicaly 
 Here is a global list of all parts needed to perform this keyboard build:
 
 - [ ] Laser cut acrylic plates
-- [ ] Screws
-- [ ] SMD components fot the pcb
+- [ ] Screws (M2 for sandwich mount and M3 for skeleton mount)
+- [ ] SMD components fot the pcb (see the pcb documentation for more details)
 - [ ] pcb plate
 - [ ] 42 switches
 - [ ] 6.25u and 2u stabilizers
@@ -70,7 +70,7 @@ Here is a global list of all parts needed to perform this keyboard build:
 
 - [case documentation](case/case_doc.md)
 - [pcb documentation](pcb/pcb_doc.md)
-- [firmware](firmware/alpha_dre/readme.md)
+- [firmware documentation](firmware/alpha_dre/readme.md)
 
 
 ## Aknowledgment
