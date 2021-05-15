@@ -21,9 +21,9 @@ __Complete set of renders__ can be found __[here](dos/renders/renders_doc.md)__
 
 A first prototype with a simple skeleton case made out of plexiglass have been made to validate that the keyboard was responding correctly to the firmware and was usable. More on the cases will be done in the future (notably with the cut acrylic plates for the sandwich mount and with a 3d printed case).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51174000281/in/album-72157719168472937/" title="IMG_7544"><img src="https://live.staticflickr.com/65535/51174000281_8f5fd61257_c.jpg" width="800" height="450" alt="IMG_7544"></a>
+![pic_front](https://live.staticflickr.com/65535/51174000281_2e8926cdd9_h.jpg)
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51175096930/in/album-72157719168472937/" title="IMG_7542"><img src="https://live.staticflickr.com/65535/51175096930_36d921167d_c.jpg" width="800" height="450" alt="IMG_7542"></a>
+![pic_side](https://live.staticflickr.com/65535/51175096930_bc8a597342_h.jpg)
 
 **The complete album containing all the pictures** made on the prototype is available **[here](https://flic.kr/s/aHsmVCqc8F)**
 
@@ -37,7 +37,7 @@ The keyboard presents 42 keys that are placed in an ISO layout, and even if the 
 
 The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192973713@N02/51173328487/in/album-72157719168472937/" title="IMG_7497"><img src="https://live.staticflickr.com/65535/51173328487_4f60afffa1_c.jpg" width="800" height="450" alt="IMG_7497"></a>
+![pic_pcb](https://live.staticflickr.com/65535/51173328487_bfa592c227_h.jpg)
 
 More on the pcb design available in the documentation file.
 
