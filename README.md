@@ -15,7 +15,7 @@ A bunch of renders have been made to validate the overall looking of the keyboar
 
 ![alpha_dre_render2](docs/renders/alpha_dre_side_view4.png)
 
-__Complete set of renders__ can be found __[here](dos/renders/renders_doc.md)__
+__Complete set of renders__ can be found __[here](docs/renders/renders_doc.md)__
 
 ### Results
 
