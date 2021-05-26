@@ -19,8 +19,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xa1a1
-#define PRODUCT_ID      0x0001
+#define VENDOR_ID       0x4141
+#define PRODUCT_ID      0x0002
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    ANDRE
 #define PRODUCT         Alpha_Dre
@@ -44,3 +44,5 @@
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+#define VIAL_KEYBOARD_UID {0xD6, 0x7C, 0x55, 0x21, 0xD6, 0x58, 0xF1, 0xA0}
