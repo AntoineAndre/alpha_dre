@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name alpha_dre_footprints)(type KiCad)(uri ${KIPRJMOD}/lib/alpha_dre_footprints)(options "")(descr ""))
-  (lib (name cc)(type KiCad)(uri ${KIPRJMOD}/lib/fancy-kicad-stuff/cc.pretty)(options "")(descr ""))
+  (lib (name cc)(type KiCad)(uri ${KIPRJMOD}/lib/cc.pretty)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/lib/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/lib/Type-C.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/lib/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
 )

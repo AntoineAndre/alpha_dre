@@ -21,6 +21,8 @@ The keyboard presents 42 keys that are placed in an ISO layout, and even if the 
 
 ![alpha_dre_layout](docs/alpha_dre_layout.png)
 
+
+
 ### PCB
 
 The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
