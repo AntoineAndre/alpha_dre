@@ -3,6 +3,16 @@
 __Or "How to fit an ISO layout in a 40% keyboard ?"__
 
 
+## Table of contents
+- [Presentation](#Presentation)
+- [Layout](#Layout)
+- [Case](#Case), more details [here](case/case_doc.md)
+- [PCB](#PCB), more details [here](pcb/pcb_doc.md)
+- [Parts](#Parts)
+- [Results](#Results)
+- [Renders](#Renders)
+
+
 ## Presentation
 
 This project started as a need to find a **new mechanical keyboard with a french ISO layout support**. It also aims to keep a minimalist design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
@@ -20,16 +30,6 @@ __All pictures of this project can be found [here](https://flic.kr/s/aHsmVLZSPn)
 The keyboard presents 42 keys that are placed in an ISO layout, and even if the layout seems odd, most of keycaps set will fit this design. With juste 3 layers the keyboard becomes fully usable as shown in the firmware part.
 
 ![alpha_dre_layout](docs/alpha_dre_layout.png)
-
-
-
-### PCB
-
-The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
-
-![pic_pcb](https://live.staticflickr.com/65535/51173328487_bfa592c227_h.jpg)
-
-More on the pcb design available in the documentation file.
 
 ### Case
 
@@ -55,6 +55,16 @@ A last option of low profile (barely no case) is available and needs practically
 
 *Side note on the acrylic case : the design was a bit too lose and the gap between keycaps and top layer of the case can be reduced. Furthermore the plate was designed to host plate mounted stabilizers, but the pcb was designed for pcb mounted stabs...*
 
+
+
+### PCB
+
+The pcb has been designed with Kicad software and gerbers files are available in the dedicated folder. This pcb hosts an Atmega32U4-AU for the keyboard control and is (as for other electronic components) soldered in surface. 
+
+![pic_pcb](https://live.staticflickr.com/65535/51173328487_bfa592c227_h.jpg)
+
+More on the pcb design available in the documentation file.
+
 ### Parts
 
 Here is a global list of all parts needed to perform this keyboard build:
@@ -70,11 +80,11 @@ Here is a global list of all parts needed to perform this keyboard build:
 - [ ] Drill and threading tools
 
 
-## Documents
+<!-- ## Documents
 
 - [case documentation](case/case_doc.md)
 - [pcb documentation](pcb/pcb_doc.md)
-- [firmware documentation](firmware/alpha_dre/readme.md)
+- [firmware documentation](firmware/alpha_dre/readme.md) -->
 
 
 ### Results
