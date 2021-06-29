@@ -10,7 +10,7 @@ __Or "How to fit an ISO layout in a 40% keyboard ?"__
 - [PCB](#PCB), more details [here](pcb/pcb_doc.md)
 - [Parts](#Parts)
 - [Results](#Results)
-- [Renders](#Renders)
+- [Renders](#Renders), more details [here](renders/renders_doc.md)
 
 
 ## Presentation
@@ -18,8 +18,6 @@ __Or "How to fit an ISO layout in a 40% keyboard ?"__
 This project started as a need to find a **new mechanical keyboard with a french ISO layout support**. It also aims to keep a minimalist design that we can find on most 40% keyboards. It will therefore include all the 3D CAD files and various pcb related files to conduct the project along with a documentation to build the keyboard.
 
 This keyboard is __Via and Vial compatible__ to give a better user experience (especially when it comes to remapping keys).
-
-![pic_front_acry](https://live.staticflickr.com/65535/51203419905_3eca348361_h.jpg)
 
 ![pic_both_keeb](https://live.staticflickr.com/65535/51201636772_a60945ec8e_h.jpg)
 
@@ -103,9 +101,7 @@ Second prototype was made with acrylic sandwich plates (as intended in the origi
 
 A bunch of renders have been made to validate the overall looking of the keyboard.
 
-![alpha_dre_render1](docs/renders/alpha_dre_top_view4.png)
-
-![alpha_dre_render2](docs/renders/alpha_dre_side_view4.png)
+![alpha_dre_render](docs/renders/alpha_dre_back_view2.png)
 
 __Complete set of renders__ can be found __[here](docs/renders/renders_doc.md)__
 
