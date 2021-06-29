@@ -35,9 +35,14 @@ More on the pcb design available in the documentation file.
 
 #### 3D printed version
 
-![case_3D_view](case/3D_print/3D_view_printed.png)
+A top mounted case aimed to be 3D printed has been done to complete the build.
 
-Blueprints are available in dedicated folder
+![case_3D_view](case/3D_print/3D_view_printed.PNG)
+
+Blueprints are available in dedicated folder, short link to pdf blueprints :
+- [global assembly](https://raw.githubusercontent.com/antoineandre/alpha_dre/main/case/3D_print/assembly_blueprint.pdf)
+- [top part](https://raw.githubusercontent.com/antoineandre/alpha_dre/main/case/3D_print/bottom_part_blueprint.pdf)
+- [bottom part](https://raw.githubusercontent.com/antoineandre/alpha_dre/main/case/3D_print/top_part_blueprint.pdf)
 
 #### Acrylic stack
 The case is a *high profile* one (meaning the electronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
