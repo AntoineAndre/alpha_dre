@@ -33,13 +33,20 @@ More on the pcb design available in the documentation file.
 
 ### Case
 
+#### 3D printed version
+
+![case_3D_view](case/3D_print/3D_view_printed.png)
+
+Blueprints are available in dedicated folder
+
+#### Acrylic stack
 The case is a *high profile* one (meaning the electronic parts and switches are hidden by the case) and has been designed to be manufactured with only laser cut acrylic plates of various sizes. These plates are fixed with M2 screws (M2x16) and are hidden with rubber bumps on the bottom of the case. This conception leads to a *sandwich mount* keyboard.
 
 In order to give the keyboard a little angle for typing, two different feet have been design to be screwed at the back of the case.
 
 A last option of low profile (barely no case) is available and needs practically no manufacturing. This option leads to a *tray mount* keyboard with no plate (this is the chosen option shown in the beginning of this presentation).
 
-![case_top_view](case/exploded_view_case.png)
+![case_top_view](case/Acrylic_stack/exploded_view_case.png)
 
 *Side note on the acrylic case : the design was a bit too lose and the gap between keycaps and top layer of the case can be reduced. Furthermore the plate was designed to host plate mounted stabilizers, but the pcb was designed for pcb mounted stabs...*
 
